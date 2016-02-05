@@ -229,13 +229,13 @@ function create_config( )
 http://s7.picofile.com/file/8234722668/Bumper
 
 Sudo:
-@kiarash_gh14 
+@ariantg
 
 ID Bot:
-@telebumper
+@telenova
 
 ID channel
-@bumperchannel
+@supernovach
 ]],
     help_text_realm = [[
 Realm Commands:
